@@ -2,7 +2,7 @@
 
 ## 模块实物图
 
-![实物图](picture/fd3bbc53febcc0be1a72f704a733148.jpg)
+![实物图](picture/asr_v2.jpg)
 
 ## 概述
 

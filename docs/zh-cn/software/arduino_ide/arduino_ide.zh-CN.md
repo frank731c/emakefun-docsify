@@ -4,11 +4,13 @@
 
 ### IDE 介绍
 
-Arduino IDE（Integrated Development Environment，集成开发环境）是专为Arduin 硬件开发设计的软件工具，它简化了编程过程，使得初学者和专业人士都能轻松开发微控制器应用。Arduino IDE 提供了一个易于使用的界面，允许用户使用基于 C/C++ 的简化语言编写、编辑、编译和上传代码到 Arduino微控制器板。‌建议在Windows 10且内存8G及以上配置的电脑上使用。
+Arduino IDE（Integrated Development Environment，集成开发环境）是专为Arduin 硬件开发设计的软件工具，它简化了编程过程，使得初学者和专业人士都能轻松开发微控制器应用。Arduino IDE 提供了一个易于使用的界面，允许用户使用基于 C/C++ 的简化语言编写、编辑、编译和上传代码到 Arduino微控制器板。‌建议在**Windows 10且内存8G及以上配置的电脑上**使用。
 
 ### Arduino IDE 2.0 和 1.0 的主要区别
 
-相比于 2021 年之前发布的 Arduino IDE 1.x 版本，官方于 2022 年正式推出的 Arduino IDE 2.0 版本在重构后引入了多项核心改进，提升了开发效率与体验。
+相比于2021年之前发布的 Arduino IDE 1.x 版本，官方于 2022 年正式推出的 Arduino IDE 2.0 版本在重构后引入了多项核心改进，提升了开发效率与体验。
+
+-   **系统支持**：ArduinoIDE2.0只支持win10及以上系统，win7或者xp系统请下载1.x版本。
 
 - **集成串口监视器与绘图仪**：允许同时打开 Serial Monitor（串口监视器）与全新的 Serial Plotter（串口绘图仪），可实时查看和绘制串口数据。
 

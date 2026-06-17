@@ -1,8 +1,6 @@
 # 语音识别模块2.1
 
-## 实物图
-
-![实物图](picture/ld3320.jpg)
+![ld3320](picture/ld3320.jpg)
 
 ## 概述
 
@@ -26,7 +24,7 @@
 
 - 工作电压：5V
 - 连接方式：4 PIN 防反接杜邦线
-- 模块尺寸：4 * 2.1cm
+- 模块尺寸：22.4*38.4mm
 - 安装方式：M4螺钉螺母固定
 - I2C地址：0x30
 
@@ -41,7 +39,9 @@
 
 ## 模块尺寸
 
-TODO
+![ld3320_assembly](./picture/ld3320_assembly.jpg)
+
+<a href="zh-cn/ph2.0_sensors/smart_module/asr_speech_recognition/speech_recognition_3d.zip" download>下载语音识别模块平面和3D文件</a>
 
 ## 软件特性
 
