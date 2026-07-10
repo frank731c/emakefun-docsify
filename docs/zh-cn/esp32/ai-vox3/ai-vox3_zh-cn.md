@@ -710,15 +710,15 @@ void loop() {
 
 ## 应用案例
 
-### 小智 AI
+### 小智AI
 
 AI-VOX3可用于制作小智AI语音助手，支持语音对话、音乐播放、智能家居控制等功能。
 
 https://dcnmu33qx4vc.feishu.cn/docx/VXHzdBYH0ohpNAxw2ifc3P2InBe
 
-### CodexPad-S10 手柄控制
+### CodexPad-S10手柄控制
 
-使用 CodexPad-S10 手柄控制直流电机、编码电机、舵机等外设。
+使用CodexPad-S10手柄控制AI-VOX3控制MD40来驱动，直流电机、编码电机、舵机等外设。
 
 [查看详细教程](https://gitee.com/nulllab_1/docs_examples_gamepad_peripheral_control/blob/main/examples_description_ai_vox3_base.zh-CN.md)
 

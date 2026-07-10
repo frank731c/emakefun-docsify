@@ -76,6 +76,7 @@
     - [LTR553](/zh-cn/)
     - [VL53L1X FOV激光测距](zh-cn/ph2.0_sensors/sensors/laser_ranging_sensor/laser_ranging_sensor.md)
     - [PM2.5粉尘传感器](zh-cn/ph2.0_sensors/sensors/pm2.5_dust_sensor/pm2.5_dust_sensor.md)
+    - [AQ01空气质量传感器模块](zh-cn/ph2.0_sensors/sensors/aq01/aq01.md)
   
   - 执行器
 
@@ -96,7 +97,8 @@
     - [MD40四路编码驱动模块](zh-cn/ph2.0_sensors/actuators/md40/md40.md)
     - [小型雾化器](/zh-cn/ph2.0_sensors/actuators/small_atomizer/small_atomizer_zh-cn.md)
     - [MOS管驱动模块](/zh-cn/ph2.0_sensors/actuators/mos_driver_module/mos_driver_module_zh-cn.md)
-  
+    - [A4988步进电机驱动模块](/zh-cn/ph2.0_sensors/actuators/A4988/A4988_zh-cn.md)
+
   - 显示器
 
     - [LED灯](zh-cn/ph2.0_sensors/displayers/led_module/LED.md)
@@ -146,7 +148,7 @@
 - 电源模块
   
   - [5V5A电源模块(PM01)](/zh-cn/power_module/PM01/PM01.md)
-  - [升降压5V电源(PM02)](/zh-cn/power_module/PM02/PM02.md)
+  - [升降压5V电源(PM02)](/zh-cn/power_module/PM02/PM02_zh-cn.md)
   - [MPPT太阳能充电板](/zh-cn/power_module/MPPT/MPPT_zh-cn.md)
   - [3.7V升压充电模块(PM1S-16340)](/zh-cn/power_module/PM1S-16340/PM1S-16340.md)
   - [3.7V锂电池包模块(PM11)](/zh-cn/power_module/PM11/PM11.md)
@@ -187,6 +189,7 @@
   - [esp32-devkit-32e](zh-cn/esp32/esp32_devkit_32e/esp32_devkit_32e.md)
   - [esp32-uno](zh-cn/esp32/esp32-uno/esp32-uno.md)
   - [esp32-iot-board](zh-cn/esp32/esp32_iot_board/esp32_iot_board.md)
+  - [maker-esp32-mini](zh-cn/esp32/maker-esp32-mini/maker-esp32-mini.md)
   - [maker-esp32](zh-cn/esp32/maker_esp32/maker_esp32.md)
   - [maker-esp32-pro](zh-cn/esp32/maker_esp32_pro/maker_esp32_pro.md)
   - [esp32-cam V2](zh-cn/esp32/ESP32_CAM/ESP32_CAM.md)
@@ -197,7 +200,7 @@
   - [AI-VOX3](/zh-cn/esp32/ai-vox3/ai-vox3_zh-cn.md)
   - [AI-VOX3扩展板](https://dcnmu33qx4fc.feishu.cn/docx/Cf49d141voj8JAxNyTJcW5zTned)
   - [ESP32-S3-EXPANSION BOARD](zh-cn/esp32/esp32-s3-expansion_board/esp32-s3-expansion_board.md)
-  - [maker-esp32_mini](zh-cn/esp32/maker_esp32_mini/maker_esp32_mini.md)
+
 - 树莓派
   
   - [树莓派传感器扩展板](zh-cn/raspberrypi/raspberrypi_sensor_board/raspberrypi_sensor_board.md)
