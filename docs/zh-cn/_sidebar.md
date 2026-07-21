@@ -186,6 +186,7 @@ emakefun文档中心
   - [io:bit](zh-cn/microbit/IObit/IObit.md)
   - [sensor:bit](zh-cn/microbit/sensorbit/sensorbit.md)
   - [motor:bit](zh-cn/microbit/motorbit/motorbit.md)
+  - [mBit-Hub](zh-cn/microbit/motorbit/mBit-Hub_zh-cn.md)
   - [joysitck:bit](zh-cn/microbit/joystickbit/joystickbit.md)
 
 - 乐鑫esp系类
